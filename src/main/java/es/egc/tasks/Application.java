@@ -9,7 +9,11 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class Application {
+<<<<<<< HEAD
 	logger.info("Initializing task-manager");
+=======
+	logger.info("Iniciando aplicacion...");
+>>>>>>> next
     private static final Logger logger = LoggerFactory.getLogger(Application.class);
 
     public static void main(String[] args) {
